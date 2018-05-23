@@ -1,0 +1,22 @@
+body {
+    background: #5FCFF5;
+}
+h1 {
+    border-bottom: 2px solid rebeccapurple;
+    padding: 12px;
+    font-family: 'Kavivanar', cursive;
+}
+img {
+    width: 300px;
+}
+li {
+    list-style-type:none;
+    margin-top: 12px;
+    background: rebeccapurple;
+    padding: 12px;
+    margin-right: 1200px;
+    color: aliceblue;
+    border: 2px solid rebeccapurple;
+    font-family: 'Yatra One', cursive;
+    text-decoration: none;
+}
